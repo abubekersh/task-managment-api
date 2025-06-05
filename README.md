@@ -13,7 +13,13 @@ git clone https://github.com/abubekersh/task-managment-api.git
 ## cd to the folder
 
 ```bash
-cd task-management-api
+cd task-managment-api
+```
+
+## to install all the dependecies
+
+```bash
+composer install
 ```
 
 ## migrate the database
@@ -30,7 +36,7 @@ php artisan serve
 
 ### Supported methods
 
-now you can conume the api via curl or postman, on your local machine the path would be http://127.0.0.1:8000 if you used the default
+now you can consume the api via curl or postman, on your local machine the path would be http://127.0.0.1:8000 if you used the default
 
 ## To Get All The Tasks
 
