@@ -7,7 +7,7 @@
 ## clone the repo
 
 ```bash
-git clone
+git clone https://github.com/abubekersh/task-managment-api.git
 ```
 
 ## cd to the folder
